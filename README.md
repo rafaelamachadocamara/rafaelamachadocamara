@@ -2,7 +2,6 @@
 
 <img align="right" width="400px" img src="https://media.giphy.com/media/EdknuaSGx7H0Y/giphy.gif" />
 
-- 📝 my name is rafaela
 - 🌎 são paulo - brazil
 - ✈ full stack web developer - bootcamp generation brasil
 - 🙇‍♀️ pronouns: she/her
