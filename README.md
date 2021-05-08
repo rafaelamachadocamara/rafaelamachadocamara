@@ -1,6 +1,7 @@
+<img align="right" width="400px" img src="https://media.giphy.com/media/EdknuaSGx7H0Y/giphy.gif" />
+
 ### hi guys 😎 welcome to my profile!
 
-<img align="right" width="400px" img src="https://media.giphy.com/media/EdknuaSGx7H0Y/giphy.gif" />
 
 - 🌎 são paulo - brazil
 - ✈ full stack web developer - bootcamp generation brasil
