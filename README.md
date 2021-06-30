@@ -1,6 +1,4 @@
-<img align="right" width="400px" img src="https://media.giphy.com/media/EdknuaSGx7H0Y/giphy.gif" />
-
-### hi guys 😎 welcome to my profile!
+### hi guys welcome to my profile!
 
 
 - 🌎 são paulo - brazil
