@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rafaela</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelamachadocamara&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelamachadocamara" /> </p>
+
 - 🌱 I’m currently learning **React, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **camaramachadorafaela@gmail.com**
@@ -22,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelamachadocamara&show_icons=true&locale=en&layout=compact" alt="rafaelamachadocamara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelamachadocamara&show_icons=true&locale=en" alt="rafaelamachadocamara" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelamachadocamara&" alt="rafaelamachadocamara" /></p>
