@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/rafaelamachado-camara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelamachado-camara" height="30" width="40" /></a>
 <a href="https://fb.com/rafaela.machado.925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafaela.machado.925" height="30" width="40" /></a>
 <a href="https://instagram.com/r4fs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r4fs_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucbt_zas8dxaigoqtdl7ekjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbt_zas8dxaigoqtdl7ekjg" height="30" width="40" /></a>
 <a href="https://discord.gg/#1866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1866" height="30" width="40" /></a>
 </p>
 
