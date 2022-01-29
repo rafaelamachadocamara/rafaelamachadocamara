@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafaela</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **React, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **Angular, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **camaramachadorafaela@gmail.com**
 
