@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafaela</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Movie Maker](https://movie-maker-stg.finderup.com.br/home)
-
 - 🌱 I’m currently learning **JavaScript, TypeScript, Angular, HTML, CSS,**
 
 - 📫 How to reach me **camaramachadorafaela@gmail.com**
